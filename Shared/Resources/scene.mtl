@@ -1,0 +1,22 @@
+newmtl material_1
+	Kd 1 1 1
+	Ka 0.2 0.2 0.2
+	Ka 0 0 0
+	Ks 0 0 0
+	Ks 0
+	d 1 1 1
+	ao 0
+	subsurface 0
+	metallic 0
+	specularTint 0
+	roughness 0.9
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+	displacement 0 0 0
+    map_Kd helmet_baseColor.png
+    map_metallic helmet_metallic.jpg
+    map_roughness helmet_roughness.jpg
+    map_tangentSpaceNormal helmet_normal.jpg
